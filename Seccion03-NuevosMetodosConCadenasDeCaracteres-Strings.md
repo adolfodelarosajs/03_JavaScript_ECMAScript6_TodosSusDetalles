@@ -4,7 +4,7 @@
 
 ### startsWith
 
-Antes para saber si una palabra empezaba con una letra había apoyarse en métodos auxiliares para lograrlo. Con esta nueva función del ES6 lo podemos saber directamente inclusive nos sirve para saber si comienza con un conjunto de letras o palabras:
+Antes para saber si una palabra empezaba con una letra había que apoyarse en métodos auxiliares para lograrlo. Con esta nueva función del ES6 lo podemos saber directamente inclusive nos sirve para saber si comienza con un conjunto de letras o palabras:
 
 ```
 var saludo = "Hola Mundo!";
@@ -24,7 +24,7 @@ true
 
 ### endsWith
 
-Nos va a permitir si una cadena termina con una secuencia de caracteres, regresando `true` si se cumple o `false` si no se cumple:
+Nos va a permitir ver si una cadena termina con una secuencia de caracteres, regresando `true` si se cumple o `false` si no se cumple:
 
 ```
 var saludo = "Hola Mundo!";
